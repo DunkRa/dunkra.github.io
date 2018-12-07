@@ -4,7 +4,7 @@ html {
   height: 100%;
 }
 body {
-  background: linear-gradient(114.83deg, #fefefd 27%, #fbfbfa 27%, #fbfbfa 95%, #f8f8f7 95%, #f8f8f7);
+  background-image: url(/assets/img/paul-hanaoka-285358-unsplash.jpg);
   font-family: 'Open Sans';
 }
 .container {
