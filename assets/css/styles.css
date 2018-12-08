@@ -11,3 +11,18 @@ body {
   background-color: #0c223f;
   color: #f2f2f2;
 }
+
+
+body {
+  background-color: #6effea;
+}
+
+.password-main__inner {
+  background-color: #0c0d3f;
+}
+
+.password-powered-by { display: none; }
+
+.password-page {
+  background-image: url(https://dunkra.github.io/assets/img/paul-hanaoka-285358-unsplash.jpg);
+}
